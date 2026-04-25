@@ -3,6 +3,8 @@
 An interactive stock dashboard built with **Python** and **Streamlit** to analyze Apple Inc. (AAPL) stock performance from 2016 to 2026.
 
 ---
+## 🌐 Live Demo
+[View Dashboard](https://applemetrics.streamlit.app/)
 
 ## 📸 Preview
 
